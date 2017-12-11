@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:700');
 html { 
   background:url('https://wallpaperscraft.com/image/dolls_many_people_smile_88090_1920x1080.jpg') no-repeat center center fixed;
   background-size: cover;
@@ -8,8 +9,6 @@ html {
 h1{
   font-size: 3em;
   margin: .2em .5em;
-  background: rgba(0, 0, 0, 0.3);
-  display:inline-block;
   padding: 3px 10px;
 }
 
@@ -22,13 +21,21 @@ p{
   margin-left: 200px;
   margin-right:200px;
   line-height: 170%;
+  font-family: 'Rajdhani', sans-serif;
   }
 
 ul li{
+  color: White;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.secondary li{
   display:inline-block;
   margin: 30px 8px;
   color: White;
+  font-family: 'Rajdhani', sans-serif;
 }
+
 
 
 
