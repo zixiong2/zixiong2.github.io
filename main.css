@@ -12,14 +12,14 @@ h1{
   padding: 3px 10px;
 }
 
-p{
+.first{
   background: rgba(0, 0, 0, 0.3);
   display:inline-block;
   padding: 3px 10px;
   color: rgba(255, 255, 255, 1);
   font-size: 1.2em;
-  margin-left: 400px;
-  margin-right:400px;
+  margin-left: 600px;
+  margin-right:600px;
   line-height: 160%;
   font-family: 'Fjalla One', sans-serif;
   }
@@ -28,8 +28,6 @@ ul li{
   color: White;
   font-family: 'Fjalla One', sans-serif;
   list-style-position: inside;
-  background: rgba(0, 0, 0, 0.3);
-  background:inline-block;
   font-size: 1.2em;
 }
 
@@ -37,7 +35,7 @@ ul li{
   display:inline-block;
   margin: 25px 8px;
   color: White;
-  font-size: 1.3em;
+  font-size: 1.15em;
   font-family: 'Advent Pro', sans-serif;
 }
 
