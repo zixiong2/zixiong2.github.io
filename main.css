@@ -18,8 +18,8 @@ h1{
   padding: 3px 10px;
   color: rgba(255, 255, 255, 1);
   font-size: 1.2em;
-  margin-left: 600px;
-  margin-right:600px;
+  margin-left: 450px;
+  margin-right:450px;
   line-height: 160%;
   font-family: 'Fjalla One', sans-serif;
   }
@@ -29,6 +29,8 @@ ul li{
   font-family: 'Fjalla One', sans-serif;
   list-style-position: inside;
   font-size: 1.2em;
+  line-height: 200%;
+  margin-left: 300px;
 }
 
 .secondary li{
