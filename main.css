@@ -1,12 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
 @import url('https://fonts.googleapis.com/css?family=Fjalla+One');
 html { 
-  background:url('https://wallpaperscraft.com/image/dolls_many_people_smile_88090_1920x1080.jpg') no-repeat center center fixed;
+  background:url('https://i.giphy.com/media/QZbAPWbfGUjZK/source.gif') no-repeat center center fixed;
   background-size: cover;
   font-family: 'Advent Pro', sans-serif;
   color: rgba(245, 245, 245, 1);
-  background: rgba(0, 0, 0, 0.3);
-  display:inline-block;
 }
 h1{
   font-size: 4em;
@@ -34,7 +32,7 @@ ul li{
   display:inline-block;
   margin: 25px 8px;
   color: White;
-  font-size: 1.6em;
+  font-size: 1.3em;
   font-family: 'Advent Pro', sans-serif;
 }
 
@@ -61,7 +59,7 @@ a:active {
 .second {
   color: rgba(255, 255, 255, 1);
   font-size: 1.2em;
-  font-family: 'Rajdhani', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
   }
 
 
