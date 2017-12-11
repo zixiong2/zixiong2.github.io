@@ -18,23 +18,55 @@ p{
   padding: 3px 10px;
   color: rgba(255, 255, 255, 1);
   font-size: 1.2em;
-  margin-left: 200px;
-  margin-right:200px;
-  line-height: 170%;
+  margin-left: 400px;
+  margin-right:400px;
+  line-height: 160%;
   font-family: 'Rajdhani', sans-serif;
   }
 
 ul li{
   color: White;
   font-family: 'Rajdhani', sans-serif;
+  list-style-position: inside;
+  background: rgba(0, 0, 0, 0.3);
+  display:inline-block;
 }
 
 .secondary li{
   display:inline-block;
-  margin: 30px 8px;
+  margin: 25px 8px;
   color: White;
   font-family: 'Rajdhani', sans-serif;
+  font-size: 1.6em;
 }
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
+
+.second {
+  background: rgba(0, 0, 0, 0.3);
+  display:inline-block;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.2em;
+  font-family: 'Rajdhani', sans-serif;
+  }
 
 
 
